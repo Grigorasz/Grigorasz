@@ -7,7 +7,7 @@ I'm a junior IT enthusiast passionate about networks, infrastructure, and cybers
 - Network fundamentals: TCP/IP, NAT, DNS, IPv4/IPv6, Port Forwarding
 - Server administration: Windows, Linux, Virtual Machines
 - Security: DDoS Mitigation, VPN/Proxy filtering, GeoIP Blocking
-- Tools: Wireshark, Cloudflare, Multicraft, BungeeCord, Discord integration
+- Tools: Wireshark, Cloudflare, Multicraft, BungeeCord, Microsoft Azure, Discord integration
 - Scripting: Bash automation (backups, bans, pings), log parsing
 
 ## 🛠️ Highlight Project

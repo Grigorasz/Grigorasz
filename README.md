@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Andrei (Grigorasz)
+# 👋 Hi, I'm Grigore-Andrei (Grigoras)
 
 I'm a junior IT enthusiast passionate about networks, infrastructure, and cybersecurity. I’ve built and secured real server environments both on-premise and in the cloud (Microsoft Azure), with a focus on automation, protection against DDoS attacks, and performance optimization.
 
